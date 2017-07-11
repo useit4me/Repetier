@@ -66,33 +66,33 @@ Microstepping correction
 
 
 # TODO
-~~* Firmware upgrade~~
-~~* Belt tension issues~~
 * SD card printing issues.
 * Heating issue board cable gauge to be increased.
 * Print bed levelling issues need better solution than paper clips
-~~* enable openDACT~~~
-~~* Belt slip issue redesign. (add washer)
-* nozzle heating thermistor control issue
-* multiple fan setup update.
-* end switches leveling~~
 * power conversion issues. 
 * Z_PROBE parameters off
 * microsteping correction
 * filament spool reprint and attachment
 * power outage resume print fails
-~~* enable open DACT and try.~~
 * heatbed heating power wire.
 * z axis fine tuning
 * FIX IDE connection issues
 * CURA memory issue on mac
+* CURA update 15.0.05
+~~* Firmware upgrade~~
+~~* Belt tension issues~~
+~~* enable openDACT~~~
+~~* Belt slip issue redesign. (add washer)
+* nozzle heating thermistor control issue
+* multiple fan setup update.
+* end switches leveling~~
+~~* enable open DACT and try.~~
 ~~* Arduino memory issue
 * x axis end point correction.
 * resolution correction >250 dpi~~
 * Beeper silencings
 ~~* hot end design modification ( rostock delta)
 * Heated bed heating mechanism (ADD to firmware)  firmware changes~~
-* CURA update 15.0.05~~
 
 # Print head leveling wizard
 If the nozzle not level when printing, the 3 Axis limit switch height is incorrect setup.
